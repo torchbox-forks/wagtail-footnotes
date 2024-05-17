@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add support for Wagtail 6.0/6.1, Django 5.0 and Python 3.12 @katdom13
 - Drop support for Wagtail < 5.2 @katdom13
 - Add support for Wagtail 6.0 @katdom13
 - Add support for Django 5.0 by @katdom13
