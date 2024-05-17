@@ -7,6 +7,7 @@
 - Add support for Wagtail 6.0 @katdom13
 - Add support for Django 5.0 by @katdom13
 - Add compatibility tests for Wagtail 6.0 and Python 3.12 @katdom13
+- Make footnotes translatable @jhonatan-lopes, and make the package strings translatable @zerolab
 
 ## 0.10.0
 
